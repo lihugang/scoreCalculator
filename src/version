@@ -1,0 +1,10 @@
+#ifndef __MAJOR_VERSION__
+#define __MAJOR_VERSION__ 1
+#endif
+#ifndef __MINOR_VERSION__
+#define __MINOR_VERSION__ 0
+#endif
+#ifndef __PATCH_VERSION__
+#define __PATCH_VERSION__ 0
+#endif
+//version: 1.0.0
