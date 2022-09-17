@@ -1,0 +1,21 @@
+# not add vscode config
+.vscode
+
+.seat-table
+# not add seat table
+
+*.csv
+# analysis csv data not add
+
+*.txt
+# analysis txt result not add
+
+*.idb
+# ida database not add
+
+test
+# test codes not add
+
+secret
+environment
+env.h
