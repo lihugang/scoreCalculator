@@ -5,7 +5,9 @@
 # not add seat table
 
 *.csv
-# analysis csv data not add
+*.xls
+*.xlsx
+# analysis csv data or xlsx statistics not add
 
 *.txt
 # analysis txt result not add
